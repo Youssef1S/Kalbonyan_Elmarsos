@@ -8,7 +8,7 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 The Aim of this internship
   - [Learn Programming Fundamentals and Github](#fundamental)
-  - [Learn Web Design]()
+  - [Learn Web Design](#web)
   - [Learn MERN Stack]()
   - [Learn How to Deploy your web applications with cloud provider (AWS)]()
   - [Learn how to make serverless web apps]()
@@ -38,3 +38,10 @@ The Aim of this internship
 ![Total Progress](https://img.shields.io/badge/Total%20hours%20for%20these%20courses-17h%2013m-blue)
 
 ***
+<!-- WEB DESIGN -->
+## <section id="web">Learn Web Design</section> 
+![done](https://camo.githubusercontent.com/19454507992f53e762b7f47301b50250d3bf4e69c0c7d9a32d4ff6a239f58b5a/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f3f7469746c653d446f6e65)
+- ### Web Design series from udemy
+   |Course Name|Duration|Course Link|Finish Date|Certificate|
+   |  ----     | -----  |  ------   |    -----  |  -------  |
+   |11. [HTML & CSS](#)  | `37.5h`  |  [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) |                    |              | 
