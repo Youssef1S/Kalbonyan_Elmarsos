@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Accordion Component</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&amp;display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: "Inter", sans-serif;
+      line-height: 1;
+    }
+
+    .accordion {
+      width: 800px;
+      margin: 200px auto;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+    }
+    .icon{
+      width: 24px;
+    }
+    .btn {
+      width: 48px;
+      height: 48px;
+      border: 1px solid #087f5b;
+      background-color: #fff;
+      color: #087f5b;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    a {
+      width: 32px;
+      height: 32px;
+      text-decoration: none;
+      color: #000;
+      font-size: 18px;
+      font-weight: 500;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    div .visited {
+      width: 32px;
+      height: 32px;
+      border: none;
+      background-color: #087f5b;
+      color: #fff;
+      border-radius: 50%;
+    }
+
+    div a:hover {
+      width: 32px;
+      height: 32px;
+      border: none;
+      background-color: #087f5b;
+      color: #fff;
+      border-radius: 50%;
+    }
+
+    .btn:hover{
+      background-color: #087f5b;
+      color: #fff;
+    }
+
+  </style>
+</head>
+
+<body>
+  <div class="accordion">
+    <button class="btn">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon--left" fill="none" viewBox="0 0 24 24"
+        stroke="currentColor" stroke-width="2">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
+      </svg>
+    </button>
+
+      <a href="#"><p>1</p></a>
+      <a href="#">2</a>
+      <a href="#" class="visited">3</a>
+      <a href="#">4</a>
+      <a href="#">5</a>
+      <a href="#">6</a>
+      <span>...</span>
+      <a href="#">23</a>
+      <button class="btn">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon--right" fill="none" viewBox="0 0 24 24"
+          stroke="currentColor" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
+        </svg>
+      </button>
+
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,61 @@
+body{
+  font-family: sans-serif;
+}
+
+.product{
+  border: 5px solid #000;
+  width: 850px;
+  margin-right: auto;
+  margin-left:auto;
+}
+
+.header{
+  background-color: rgb(238, 237, 237);
+  padding: 2px;
+  text-align: center;
+}
+
+.upper{
+  text-transform: uppercase;
+}
+
+strong{
+  font-size: 20px;
+  margin-bottom:0px;
+}
+
+.price{
+  margin: 5px;
+}
+
+.free-shipping{
+  margin:0%;
+  font-size: 12px;
+}
+
+a{
+  color: #000;
+}
+
+ul{
+  padding-left: 10px;
+}
+
+li{
+  margin: 15px;
+  list-style: square;
+}
+
+.add-cart{
+  padding:15px;
+  width:100%;
+  font-size:25px;
+  border-top: 5px solid #000;
+  background-color: #000;
+  color: #fff;
+}
+
+.add-cart:hover{
+  background-color: #fff;
+  color: #000;
+}
