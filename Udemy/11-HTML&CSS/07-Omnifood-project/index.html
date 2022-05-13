@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -14,11 +14,12 @@
 
   <link rel="stylesheet" href="css/general.css">
   <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="css/queries.css" />
   <title>Omnifood</title>
 </head>
 
 <body>
-  <header class="header">
+  <header class="header nav-open">
     <img src="img/omnifood-logo.png" alt="Omnifood logo" class="logo">
     <nav class="main-nav">
       <ul class="main-nav-list">
@@ -29,6 +30,11 @@
         <li><a class="main-nav-link nav-cta" href="#">Try for free</a></li>
       </ul>
     </nav>
+
+    <button class="btn-mobile-nav">
+      <ion-icon class="btn-mobile-icon" name="menu-outline"></ion-icon>
+      <ion-icon class="btn-mobile-icon" name="close-outline"></ion-icon>
+    </button>
   </header>
 
   <main>
@@ -288,7 +294,7 @@
         </div>
       </div>
 
-      <div class="gallery grid grid--3-cols">
+      <div class="gallery">
         <figure class="gallery-item">
           <img src="img/gallery/gallery-1.jpg" alt="Photo of beatifully
            arranged food" />
@@ -468,7 +474,7 @@
             <p class="cta-text">Healthy, tasty and hassle-free meals are waiting for you. Start eating well today. You
               can cancel or pause anytime. And the first meal is on us!</p>
 
-            <form action="#" class="cta-form grid grid--2-cols">
+            <form action="#" class="cta-form">
               <div>
                 <label for="full-name">Full Name</label>
                 <input type="text" id="full-name" placeholder="Youssef Shaaban" required />
