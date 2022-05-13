@@ -45,3 +45,6 @@ The Aim of this internship
    |Course Name|Duration|Course Link|Finish Date|Certificate|
    |  ----     | -----  |  ------   |    -----  |  -------  |
    |11. [HTML & CSS](https://github.com/Youssef1S/Kalbonyan_Elmarsos/tree/main/Udemy/11-HTML%26CSS)  | `37.5h`  |  [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) |                    |     [Certificate](#)         | 
+   
+   
+ ![Total Progress](https://img.shields.io/badge/Total%20hours%20for%20these%20courses-106h%2050m-blue)
