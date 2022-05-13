@@ -18,11 +18,13 @@
   - Designers who want to expand their skill set into HTML5 and CSS3    
 - ### Skills covered
   - `HTML & CSS` `Web Design`
+- ### Course projects
+  - #### Live preview: [Omnifood website](https://omnifood101.netlify.app/)
 
 ***
 
 - ### Course link: [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 - ### Certificate
-<div style="margin: 0 auto">
-  <img src="" alt="certificate" style="width: 700px"/>
+<div align="center">
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-0da8b782-ab44-4979-ad3d-933d7d0103e7.jpg" alt="certificate" style="width: 700px"/>
 </div>
