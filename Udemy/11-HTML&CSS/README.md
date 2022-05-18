@@ -1,5 +1,5 @@
 ## Web Design: HTML & CSS
-- ### What you 'll learn?
+- ### What you will learn?
   - Become a modern and confident HTML and CSS developer, no prior knowledge needed!
   - Modern, semantic and accessible HTML5
   - Important CSS concepts such as the box model, positioning schemes, inheritance, solving selector conflicts, etc..
