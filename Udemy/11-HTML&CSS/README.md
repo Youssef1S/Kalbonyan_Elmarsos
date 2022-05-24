@@ -18,8 +18,23 @@
   - Designers who want to expand their skill set into HTML5 and CSS3    
 - ### Skills covered
   - `HTML & CSS` `Web Design`
+- ### Stages of the course
+  - #### Live preview: [Accordion component](https://accordion-component101.netlify.app/)
+    - ##### Code preview: [Click here](https://github.com/Youssef1S/Kalbonyan_Elmarsos/tree/main/Udemy/11-HTML%26CSS/06-Web-Design/06_01)
+  - #### Live preview: [Carousel component](https://carousel101.netlify.app/)
+    - ##### Code preview: [Click here](https://github.com/Youssef1S/Kalbonyan_Elmarsos/tree/main/Udemy/11-HTML%26CSS/06-Web-Design/06_02)
+  - #### Live preview: [Table](https://table101.netlify.app/)
+    - ##### Code preview: [Click here](https://github.com/Youssef1S/Kalbonyan_Elmarsos/tree/main/Udemy/11-HTML%26CSS/06-Web-Design/06_03)
+  - #### Live preview: [Pagination component](https://pagination101.netlify.app/)
+    - ##### Code preview: [Click here](https://github.com/Youssef1S/Kalbonyan_Elmarsos/tree/main/Udemy/11-HTML%26CSS/06-Web-Design/Challenge06_01)
+  - #### Live preview: [Hero section](https://hero101.netlify.app/)
+    - ##### Code preview: [Click here](https://github.com/Youssef1S/Kalbonyan_Elmarsos/tree/main/Udemy/11-HTML%26CSS/06-Web-Design/06_05)
+  - #### Live preview: [App layout](https://app-layout101.netlify.app/)
+    - ##### Code preview: [Click here](https://github.com/Youssef1S/Kalbonyan_Elmarsos/tree/main/Udemy/11-HTML%26CSS/06-Web-Design/06_07)
+
 - ### Course projects
   - #### Live preview: [Omnifood website](https://omnifood101.netlify.app/)
+    - ##### Code preview: [Click here](https://github.com/Youssef1S/Kalbonyan_Elmarsos/tree/main/Udemy/11-HTML%26CSS/07-Omnifood-project)
 
 ***
 
