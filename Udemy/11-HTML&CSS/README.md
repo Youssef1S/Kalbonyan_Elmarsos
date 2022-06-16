@@ -18,7 +18,7 @@
   - Designers who want to expand their skill set into HTML5 and CSS3    
 - ### Skills covered
   - `HTML & CSS` `Web Design`
-- ### Challenges
+- ### Challenges solutions
   | Section  | Challenges  |
   |---|-----|
   |02. HTML Fundamentals| [Challenge02_01](02-HTML-Fundamentals/Challenge02_01) <br/> [Challenge02_02](02-HTML-Fundamentals/Challenge02_02) |  
