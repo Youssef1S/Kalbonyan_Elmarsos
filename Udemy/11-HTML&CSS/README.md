@@ -18,6 +18,14 @@
   - Designers who want to expand their skill set into HTML5 and CSS3    
 - ### Skills covered
   - `HTML & CSS` `Web Design`
+- ### Challenges
+  | Section  | Challenges  |
+  |---|-----|
+  |02. HTML Fundamentals| [Challenge02_01](02-HTML-Fundamentals/Challenge02_01) <br/> [Challenge02_02](02-HTML-Fundamentals/Challenge02_02) |  
+  |03. CSS Fundamentals | [Challenge03_01](03-CSS-Fundamentals/Challenge04_01) <br/> [Challenge03_02](03-CSS-Fundamentals/Challenge03_02) <br/> [Challenge03_03](03-CSS-Fundamentals/Challenge03_03) |
+  |04. CSS Layouts| [Challenge04-01](04-CSS-Layouts/Challenge04_01) <br/>[Challenge04-02](04-CSS-Layouts/Challenge04_02) <br/> [Challenge04-03](04-CSS-Layouts/Challenge04_03) |
+  |06. Web Design| [Challenge06-01](06-Web-Design/Challenge06_01)
+  
 - ### Stages of the course
   - #### Live preview: [Accordion component](https://accordion-component101.netlify.app/)
     - ##### Code preview: [Click here](https://github.com/Youssef1S/Kalbonyan_Elmarsos/tree/main/Udemy/11-HTML%26CSS/06-Web-Design/06_01)
