@@ -42,7 +42,7 @@
   - #### Live preview: [Pig Game](https://piggame101.netlify.app/)
     - ##### Code preview: [Click here](https://github.com/Youssef1S/Kalbonyan_Elmarsos/tree/main/Udemy/12-JavaScript/05-DOM-and-Events-fundamentals/03-Pig-Game)
   - #### Live preview: [Bankist App]()
-    - ##### Code Preview: [Click here](09-Working-with-Arrays\Bankist-app)
+    - ##### Code Preview: [Click here](09-Working-with-Arrays/Bankist-app)
 ---
 
 - ### Course link: [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
