@@ -25,12 +25,14 @@
 - ### Skill covered
   - `JavaScript (Programming language)` `Programming`
 - ### Challenges solutions
+
   | Section                                       | Challenges                                                                                                                                                                                                                                                                |
   | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
   | 01. Fundamentals Part1                        | [Challenge01-01](01-Fundamentals-part1/Challenge01-01) <br/>[Challenge01-02](01-Fundamentals-part1/Challenge01-02) <br/>[Challenge01-03](01-Fundamentals-part1/Challenge01-03) <br/> [Challenge01-04](01-Fundamentals-part1/Challenge01-04)                               |
   | 02. Fundamentals part2                        | [Challenge02-01](02-Fundamentals-part2/Challenge02-01) <br/> [Challenge02-02](02-Fundamentals-part2/Challenge02-01) <br/> [Challenge02-03](02-Fundamentals-part2/Challenge02-01) <br/> [Challenge02-04](02-Fundamentals-part2/Challenge02-01)                             |
   | 07. DataStructures, Modern Operator & Strings | [Challenge07-01](07-Data-Structures-Operators/Challenge07-01) <br/> [Challenge07-02](07-Data-Structures-Operators/Challenge07-02) <br/> [Challenge07-03](07-Data-Structures-Operators/Challenge07-03) <br/> [Challenge07-04](07-Data-Structures-Operators/Challenge07-04) |
-  | 08. A closer look at Functions | [Challenge08-01](08-Functions/Challenge08-01) <br/> [Challenge08-02](08-Functions/Challenge08-02)|
+  | 08. A closer look at Functions                | [Challenge08-01](08-Functions/Challenge08-01) <br/> [Challenge08-02](08-Functions/Challenge08-02)                                                                                                                                                                         |
+  | 09. Working with Arrays                       | [Challenge09-01](09-Working-with-Arrays/Challenge09-01) <br/>[Challenge09-02](09-Working-with-Arrays/Challenge09-02) <br/> [Challenge09-03](09-Working-with-Arrays/Challenge09-03) <br/> [Challenge09-04](09-Working-with-Arrays/Challenge09-04)|
 
 - ### Course Projects
   - #### Live preview: [Geussing Game](https://guess-my-number101.netlify.app/)
@@ -39,7 +41,8 @@
     - ##### Code preview: [Click here](https://github.com/Youssef1S/Kalbonyan_Elmarsos/tree/main/Udemy/12-JavaScript/05-DOM-and-Events-fundamentals/02-Modal-Window)
   - #### Live preview: [Pig Game](https://piggame101.netlify.app/)
     - ##### Code preview: [Click here](https://github.com/Youssef1S/Kalbonyan_Elmarsos/tree/main/Udemy/12-JavaScript/05-DOM-and-Events-fundamentals/03-Pig-Game)
-
+  - #### Live preview: [Bankist App]()
+    - ##### Code Preview: [Click here](09-Working-with-Arrays\Bankist-app)
 ---
 
 - ### Course link: [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
