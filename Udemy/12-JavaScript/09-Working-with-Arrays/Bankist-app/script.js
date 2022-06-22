@@ -256,7 +256,6 @@ const startLogOutTimer = function () {
 
 // Event handler
 let currentAccount, timer;
-containerApp.style.opacity = 100;
 
 btnLogin.addEventListener("click", function (e) {
   // Prevent form from submitting
