@@ -45,7 +45,7 @@
     - ##### Code preview: [Click here](https://github.com/Youssef1S/Kalbonyan_Elmarsos/tree/main/Udemy/12-JavaScript/05-DOM-and-Events-fundamentals/03-Pig-Game)
   - #### Live preview: [Bankist App](https://bankistapp101.netlify.app/)
     - ##### Code preview: [Click here](09-Working-with-Arrays/Bankist-app)
-  - #### Live preview: [Bankist Website](https://bankist.website101.netlify.app/)
+  - #### Live preview: [Bankist Website](https://bankist-website101.netlify.app/)
     - ##### Code preview: [Click here](https://github.com/Youssef1S/Kalbonyan_Elmarsos/tree/main/Udemy/12-JavaScript/11-Advanced-DOM-and-Events)
 
 ---
