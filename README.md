@@ -66,9 +66,9 @@ The Aim of this internship
 ![done](https://camo.githubusercontent.com/19454507992f53e762b7f47301b50250d3bf4e69c0c7d9a32d4ff6a239f58b5a/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f3f7469746c653d446f6e65)
 
 - ### Mern stack series from Udemy
-  | Course Name                        | Duration  | Course Link                                                                                                                                                             | Finish Date | Certificate |
-  | ---------------------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ----------- |
-  | 13. [REACT Js](Udemy/13-REACT-Js/) | `48h 50m` | [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) |             |             |
+  | Course Name                       | Duration  | Course Link                                                                                                                                                             | Finish Date | Certificate |
+  | --------------------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ----------- |
+  | 13. [REACT Js](Udemy/13-React-Js) | `48h 50m` | [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) |             |             |
 
 ![Total Progress](https://img.shields.io/badge/Total%20hours%20of%20these%20courses-95h%2000m-blue)
 
