@@ -1,0 +1,8 @@
+{
+  "workbench.sideBar.location": "right",
+  "zenMode.hideActivityBar": true,
+  "editor.suggest.showStatusBar": false,
+  "zenMode.hideStatusBar": false,
+  "debug.showInStatusBar": "always",
+  "vim.statusBarColorControl": true
+}
