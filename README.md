@@ -84,6 +84,6 @@ The Aim of this internship
 
   | Course Name        | Duration  | Course Link                                                                                                                                                                              | Finish Date | Certificate                                            |
   | ------------------ | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------ |
-  |15. [AWS Certified Cloud Practitioner](A-Cloud-Guru/15-AWS-Cloud-Practitioner/) | `16h 12m` | [![AWS](https://img.shields.io/badge/Amazon_AWS-fd7e14?style=for-the-badge&logo=amazonaws&logoColor=white)](https://learn.acloud.guru/course/aws--certified-cloud-practitioner/overview) | 30JUL, 2022 | [Certificate](https://verify.acloud.guru/943ADC7CEADF) |
+  |15. [AWS Certified Cloud Practitioner (CLF-C01)](A-Cloud-Guru/15-AWS-Cloud-Practitioner/) | `16h 12m` | [![AWS](https://img.shields.io/badge/Amazon_AWS-fd7e14?style=for-the-badge&logo=amazonaws&logoColor=white)](https://learn.acloud.guru/course/aws--certified-cloud-practitioner/overview) | 30JUL, 2022 | [Certificate](https://verify.acloud.guru/943ADC7CEADF) |
 
 
