@@ -34,7 +34,7 @@
   | 08. A closer look at Functions                  | [Challenge08-01](08-Functions/Challenge08-01) <br/> [Challenge08-02](08-Functions/Challenge08-02)                                                                                                                                                                         |
   | 09. Working with Arrays                         | [Challenge09-01](09-Working-with-Arrays/Challenge09-01) <br/>[Challenge09-02](09-Working-with-Arrays/Challenge09-02) <br/> [Challenge09-03](09-Working-with-Arrays/Challenge09-03) <br/> [Challenge09-04](09-Working-with-Arrays/Challenge09-04)                          |
   | 12. Object Oriented Programming with JavaScript | [Challenge12-01](12-OOP-with-JavaScript/Challenge12-01) <br/> [Challenge12-02](12-OOP-with-JavaScript/Challenge12-02) <br/> [Challenge12-03](12-OOP-with-JavaScript/Challenge12-03) <br/> [Challenge12-04](12-OOP-with-JavaScript/Challenge12-04)                         |
-  | 14. Asyncchronous JavaScript                    | [Challenge14-01](14-Asynchronous/Challenge14-01)<br/> [Challenge14-02](14-Asynchronous/Challenge14-02) <br/> [Challenge14-03](14-Asynchronous/Challenge14-03)                                                         |
+  | 14. Asynchronous JavaScript                     | [Challenge14-01](14-Asynchronous/Challenge14-01)<br/> [Challenge14-02](14-Asynchronous/Challenge14-02) <br/> [Challenge14-03](14-Asynchronous/Challenge14-03)                                                                                                             |
 
 - ### Course Projects
   - #### Live preview: [Geussing Game](https://guess-my-number101.netlify.app/)
@@ -49,6 +49,8 @@
     - ##### Code preview: [Click here](https://github.com/Youssef1S/Kalbonyan_Elmarsos/tree/main/Udemy/12-JavaScript/11-Advanced-DOM-and-Events/Bankist-website)
   - #### Live preview: [Mapty App](https://maptyapp101.netlify.app/)
     - ##### Code preview: [Click here](https://github.com/Youssef1S/Kalbonyan_Elmarsos/tree/main/Udemy/12-JavaScript/13-Mapty-App)
+  - #### Live preview: [Forkify](https://forkify-app101.netlify.app/)
+    - ##### Code preview: [Click here](https://github.com/Youssef1S/Kalbonyan_Elmarsos/tree/main/Udemy/12-JavaScript/15-Forkify-app)
 
 ---
 
