@@ -68,8 +68,22 @@ The Aim of this internship
 - ### Mern stack series from Udemy
   | Course Name                       | Duration  | Course Link                                                                                                                                                             | Finish Date | Certificate |
   | --------------------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ----------- |
-  | 13. [REACT Js](Udemy/13-React-Js) | `48h 50m` | [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) |             |             |
+  | 13. [REACT Js](Udemy/13-React-Js/) | `48h 50m` | [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) |             |             |
 
 ![Total Progress](https://img.shields.io/badge/Total%20hours%20of%20these%20courses-95h%2000m-blue)
 
 ---
+
+<!-- Cloud Guru -->
+
+## <section id="cloud">Learn How to Deploy your web applications with cloud provider (AWS)</section>
+
+![done](https://camo.githubusercontent.com/19454507992f53e762b7f47301b50250d3bf4e69c0c7d9a32d4ff6a239f58b5a/68747470733a2f2f70726f67726573732d6261722e6465762f3130302f3f7469746c653d446f6e65)
+
+- ### AWS Certifications
+
+  | Course Name        | Duration  | Course Link                                                                                                                                                                              | Finish Date | Certificate                                            |
+  | ------------------ | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------ |
+  |15. [AWS Certified Cloud Practitioner](A-Cloud-Guru/15-AWS-Cloud-Practitioner/) | `16h 12m` | [![AWS](https://img.shields.io/badge/Amazon_AWS-fd7e14?style=for-the-badge&logo=amazonaws&logoColor=white)](https://learn.acloud.guru/course/aws--certified-cloud-practitioner/overview) | 30JUL, 2022 | [Certificate](https://verify.acloud.guru/943ADC7CEADF) |
+
+
