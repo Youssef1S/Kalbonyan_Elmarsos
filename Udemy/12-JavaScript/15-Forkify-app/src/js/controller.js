@@ -1,79 +1,55 @@
-import * as model from './model';
-import 'core-js/stable';
-import 'regenerator-runtime/runtime';
+import * as model from './model.js';
+import { MODAL_CLOSE_SEC } from './config.js';
 import recipeView from './views/recipeView.js';
 import searchView from './views/searchView.js';
 import resultsView from './views/resultsView.js';
+import paginationView from './views/paginationView.js';
 import bookmarksView from './views/bookmarksView.js';
-import paginationView from './views/paginationView.js';
-import paginationView from './views/paginationView.js';
 import addRecipeView from './views/addRecipeView.js';
-import { MODAL_CLOSE_SEC } from './config';
-///////////////////////////////////////
 
-// API:  https://forkify-api.herokuapp.com/v2
+import 'core-js/stable';
+import 'regenerator-runtime/runtime';
+import { async } from 'regenerator-runtime';
 
-// Path: https://forkify-api.herokuapp.com/api/v2/recipes
-
-// EX:   https://forkify-api.herokuapp.com/api/v2/recipes/5ed6604591c37cdc054bcfb2
-
-// key: 0b8ca7e1-b921-4b75-96a4-16e01809f065
-
-// post:
-
-/*
-IDs: 
-  5ed6604591c37cdc054bc886
-  5ed6604591c37cdc054bc96e
-  5ed6604591c37cdc054bc8fd
-  5ed6604591c37cdc054bcfb2
-  5ed6604591c37cdc054bce0d
-  5ed6604691c37cdc054bd015
-  5ed6604591c37cdc054bcc5b
-*/
-
-/*
-HOT MODULE
-
-if(module.hot) {
-  module.hot.accept();
-}
-*/
 const controlRecipes = async function () {
   try {
     const id = window.location.hash.slice(1);
+
     if (!id) return;
     recipeView.renderSpinner();
 
-    // 0) update results view to mark selected results
+    // 0) Update results view to mark selected search result
     resultsView.update(model.getSearchResultsPage());
+
+    // 1) Updating bookmarks view
     bookmarksView.update(model.state.bookmarks);
 
-    // 1) loading recipe
+    // 2) Loading recipe
     await model.loadRecipe(id);
 
-    // 2) Rendering recipe bookmarks view
+    // 3) Rendering recipe
     recipeView.render(model.state.recipe);
   } catch (err) {
     recipeView.renderError();
-    console.log(err);
+    console.error(err);
   }
 };
 
 const controlSearchResults = async function () {
   try {
     resultsView.renderSpinner();
-    // 1) get search query from the view
+
+    // 1) Get search query
     const query = searchView.getQuery();
     if (!query) return;
 
-    // 2) update the search object in the model
+    // 2) Load search results
     await model.loadSearchResults(query);
 
-    // 3) render results
+    // 3) Render results
     resultsView.render(model.getSearchResultsPage());
 
-    // 4) Render Initial pagination buttons
+    // 4) Render initial pagination buttons
     paginationView.render(model.state.search);
   } catch (err) {
     console.log(err);
@@ -81,34 +57,30 @@ const controlSearchResults = async function () {
 };
 
 const controlPagination = function (goToPage) {
-  // Render NEW results
+  // 1) Render NEW results
   resultsView.render(model.getSearchResultsPage(goToPage));
 
-  // Render New pagination buttons
+  // 2) Render NEW pagination buttons
   paginationView.render(model.state.search);
 };
 
 const controlServings = function (newServings) {
-  // update the recipe servings (in state)
+  // Update the recipe servings (in state)
   model.updateServings(newServings);
 
-  // update the recipe view
-  // recipeView.render(model.state.recipe);
+  // Update the recipe view
   recipeView.update(model.state.recipe);
 };
 
 const controlAddBookmark = function () {
-  // 1) Add OR remove the bookmark
-  if (!model.state.recipe.bookmarked) {
-    model.addBookmark(model.state.recipe);
-  } else {
-    model.deleteBookmark(model.state.recipe.id);
-  }
+  // 1) Add/remove bookmark
+  if (!model.state.recipe.bookmarked) model.addBookmark(model.state.recipe);
+  else model.deleteBookmark(model.state.recipe.id);
 
-  // 2) update Recipe view
+  // 2) Update recipe view
   recipeView.update(model.state.recipe);
 
-  // 3) render bookmarks
+  // 3) Render bookmarks
   bookmarksView.render(model.state.bookmarks);
 };
 
@@ -157,6 +129,3 @@ const init = function () {
   addRecipeView.addHandlerUpload(controlAddRecipe);
 };
 init();
-
-///////
-document.querySelector('.current-year').textContent = new Date().getFullYear();
