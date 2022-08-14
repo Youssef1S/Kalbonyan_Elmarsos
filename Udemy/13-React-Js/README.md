@@ -22,6 +22,10 @@
     - ##### Code preview: [Click here](https://github.com/Youssef1S/Kalbonyan_Elmarsos/tree/main/Udemy/13-React-Js/09-Food-Order-app)
   - #### Live preview: [Quotes App](https://quote-app101.netlify.app/)
     - ##### Code preview: [Click here](https://github.com/Youssef1S/Kalbonyan_Elmarsos/tree/main/Udemy/13-React-Js/18-Building-a-Multi-Page-SPA-with-React-Router/02-Time-to-Practice)
+  - #### Live preview: [Authentication App](https://authentication-app101.netlify.app/)
+    - ##### Code preview: [Click here](https://github.com/Youssef1S/Kalbonyan_Elmarsos/tree/main/Udemy/13-React-Js/20-Adding-Authentication-To-React-Apps)
+  - #### Live preview: [Meetup App](https://meetupapp101.vercel.app/)
+    - ##### Code preview: [Click here](https://github.com/Youssef1S/Kalbonyan_Elmarsos/tree/main/Udemy/13-React-Js/21-An-Introduction-to-Next.js/02-meet-up-app)
 
 ---
 
