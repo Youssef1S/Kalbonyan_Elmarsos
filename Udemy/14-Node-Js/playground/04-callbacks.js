@@ -1,3 +1,17 @@
+const doWorkCallback = (callback) => {
+  setTimeout(() => {
+    callback(undefined, [1, 4, 7]);
+  }, 2000);
+};
+
+doWorkCallback((error, result) => {
+  if (error) {
+    return console.log(error);
+  }
+
+  console.log(result);
+});
+
 // setTimeout(() => {
 //     console.log('Two seconds are up')
 // }, 2000)
@@ -22,12 +36,12 @@
 //     console.log(data)
 // })
 
-const add = (a, b, callback) => {
-  setTimeout(() => {
-    callback(a + b);
-  }, 2000);
-};
+// const add = (a, b, callback) => {
+//   setTimeout(() => {
+//     callback(a + b);
+//   }, 2000);
+// };
 
-add(1, 4, (sum) => {
-  console.log(sum); // Should print: 5
-});
+// add(1, 4, (sum) => {
+//   console.log(sum); // Should print: 5
+// });

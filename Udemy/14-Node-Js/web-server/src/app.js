@@ -68,12 +68,11 @@ app.get("/weather", (req, res) => {
       }
 
       res.send({
-        forcast: forecastData,
+        forecast: forecastData,
         location: location,
       });
     });
   });
-
 });
 
 app.get("*", (req, res) => {

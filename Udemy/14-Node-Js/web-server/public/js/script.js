@@ -11,18 +11,18 @@ weatherForm.addEventListener("submit", (e) => {
 
   const location = search.value;
   messageOne.textContent = "Loading...";
-  fetch(
-    `http://api.weatherstack.com/current?access_key=141f3a24dd50cf8e2ae55aee163cab47&query=${location}&units=f`
-  ).then((res) => {
-    res.json().then((data) => {
-      if (data.error) {
-        // messageOne.textContent =
-        messageOne.textContent = data.error.info;
-      } else {
-        messageOne.textContent =
-          data.location.name + ", " + data.location.country;
-        messageTwo.textContent = `${data.current.weather_descriptions}. It is currently ${data.current.temperature} degrees. It feels like ${data.current.feelslike} degrees out.`;
-      }
-    });
-  });
+
+  fetch("/weather?address=" + location).then(
+    (response) => {
+      response.json().then((data) => {
+        if (data.error) {
+          messageOne.textContent = data.error;
+        } else {
+          console.log(data);
+          messageOne.textContent = data.location;
+          messageTwo.textContent = data.forcast;
+        }
+      });
+    }
+  );
 });
