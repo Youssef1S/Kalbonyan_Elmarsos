@@ -18,10 +18,12 @@
 
 - ### Course Projects
 
-  | Section Name    | Live Preview                                          | Code Preview              |
-  | --------------- | ----------------------------------------------------- | ------------------------- |
-  | 01- Weather App | [Weather App](https://weathera-app101.herokuapp.com/) | [Click here](web-server/) |
-  | 02- Task Manager App | [Task Manager App]() | [Click here]()
+  | Section Name         | Live Preview                                          | Code Preview                         |
+  | -------------------- | ----------------------------------------------------- | ------------------------------------ |
+  | 01- Notes App        |<hr>                                                  | [Click here](01-Notes-app/)          |
+  | 02- Weather App      | [Weather App](https://weathera-app101.herokuapp.com/) | [Click here](./web-server)           |
+  | 03- Task Manager App | <hr>                                                  | [Click here](./03-Task-manager-app/) |
+  | 04- Chat App        | [Chat App](https://chatting-app101.herokuapp.com/)    | [Click here](./04-Chat-app)          |
 
 ---
 
@@ -30,5 +32,5 @@
 - ### Certificate
 
 <div align="center">
- 
+ <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-0665886a-8faf-4e76-a96d-0e927163c855.jpg?v=1663072221000" alt="Certificate" width="700px" />
 </div>
